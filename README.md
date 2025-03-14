@@ -50,16 +50,16 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 
 | Ferramenta | Link |
 |------------|------|
-| JSON para XML | [Acessar](https://kitdevs.com/json-xml-converter) |
-| XML para JSON | [Acessar](https://kitdevs.com/xml-json-converter) |
-| HTML para Texto | [Acessar](https://kitdevs.com/html-text-converter) |
-| Texto para HTML | [Acessar](https://kitdevs.com/text-html-converter) |
-| QR Code para Texto | [Acessar](https://kitdevs.com/qr-code-text-converter) |
-| Texto para QR Code | [Acessar](https://kitdevs.com/text-qr-code-converter) |
-| QR Code para URL | [Acessar](https://kitdevs.com/qr-url-converter) |
-| URL para QR Code | [Acessar](https://kitdevs.com/url-qrcode-converter) |
-| IPv4 para IPv6 | [Acessar](https://kitdevs.com/ipv4-ipv6-converter) |
-| IPv6 para IPv4 | [Acessar](https://kitdevs.com/ipv6-ipv4-converter) |
+| Conversor JSON para XML | [Acessar](https://kitdevs.com/json-xml-converter) |
+| Conversor XML para JSON | [Acessar](https://kitdevs.com/xml-json-converter) |
+| Conversor HTML para Texto | [Acessar](https://kitdevs.com/html-text-converter) |
+| Conversor Texto para HTML | [Acessar](https://kitdevs.com/text-html-converter) |
+| Conversor QR Code para Texto | [Acessar](https://kitdevs.com/qr-code-text-converter) |
+| Conversor Texto para QR Code | [Acessar](https://kitdevs.com/text-qr-code-converter) |
+| Conversor QR Code para URL | [Acessar](https://kitdevs.com/qr-url-converter) |
+| Conversor URL para QR Code | [Acessar](https://kitdevs.com/url-qrcode-converter) |
+| Conversor IPv4 para IPv6 | [Acessar](https://kitdevs.com/ipv4-ipv6-converter) |
+| Conversor IPv6 para IPv4 | [Acessar](https://kitdevs.com/ipv6-ipv4-converter) |
 
 ---
 
@@ -69,13 +69,13 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 |------------|------|
 | Calculadora de Juros Compostos | [Acessar](https://kitdevs.com/compound-interest-calculator) |
 | Calculadora de Juros Simples | [Acessar](https://kitdevs.com/simple-interest-calculator) |
-| Regra de Três | [Acessar](https://kitdevs.com/rule-of-three-calculator) |
-| INSS e IRRF | [Acessar](https://kitdevs.com/inss-irrf-calculator) |
+| Calculadora de Regra de Três | [Acessar](https://kitdevs.com/rule-of-three-calculator) |
+| Calculadora de INSS e IRRF | [Acessar](https://kitdevs.com/inss-irrf-calculator) |
 | Calculadora de Porcentagem | [Acessar](https://kitdevs.com/percentage-calculator) |
 | MDC e MMC | [Acessar](https://kitdevs.com/mdc-calculator), [Acessar](https://kitdevs.com/mmc-calculator) |
-| Equações Matemáticas | [Acessar](https://kitdevs.com/equation-calculator) |
-| Tempo de Vida | [Acessar](https://kitdevs.com/time-lived-calculator) |
-| Índice de Massa Corporal (IMC) | [Acessar](https://kitdevs.com/imc-calculator) |
+| Calculadora de Equação do 2° Grau | [Acessar](https://kitdevs.com/equation-calculator) |
+| Calculadora de Tempo Vivido | [Acessar](https://kitdevs.com/time-lived-calculator) |
+| Calculadora de IMC | [Acessar](https://kitdevs.com/imc-calculator) |
 
 ---
 
