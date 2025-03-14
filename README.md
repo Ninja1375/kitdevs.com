@@ -85,10 +85,10 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 | Ferramenta | Link |
 |------------|------|
 | Gerador de Open Graph (OG) | [Acessar](https://kitdevs.com/og-generator) |
-| Gerador de Sitemap | [Acessar](https://kitdevs.com/sitemap-generator) |
+| Gerador de Sitemap.xml | [Acessar](https://kitdevs.com/sitemap-generator) |
 | Gerador de Robots.txt | [Acessar](https://kitdevs.com/robots-generator) |
-| HTML para Markdown | [Acessar](https://kitdevs.com/html-to-markdown) |
-| Markdown para HTML | [Acessar](https://kitdevs.com/markdown-to-html) |
+| Conversor HTML para Markdown | [Acessar](https://kitdevs.com/html-to-markdown) |
+| Conversor Markdown para HTML | [Acessar](https://kitdevs.com/markdown-to-html) |
 | Gerador de Placeholder | [Acessar](https://kitdevs.com/placeholder-generator) |
 | Whois Lookup | [Acessar](https://kitdevs.com/whois-generator) |
 | CSS para SASS | [Acessar](https://kitdevs.com/css-to-sass) |
