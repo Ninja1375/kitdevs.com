@@ -89,16 +89,16 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 | Gerador de Robots.txt | [Acessar](https://kitdevs.com/robots-generator) |
 | Conversor HTML para Markdown | [Acessar](https://kitdevs.com/html-to-markdown) |
 | Conversor Markdown para HTML | [Acessar](https://kitdevs.com/markdown-to-html) |
-| Gerador de Placeholder | [Acessar](https://kitdevs.com/placeholder-generator) |
-| Whois Lookup | [Acessar](https://kitdevs.com/whois-generator) |
-| CSS para SASS | [Acessar](https://kitdevs.com/css-to-sass) |
-| RGB para HEX | [Acessar](https://kitdevs.com/rgb-to-hex) |
-| HEX para RGB | [Acessar](https://kitdevs.com/hex-to-rgb) |
+| Gerador de Placeholder-Imagem | [Acessar](https://kitdevs.com/placeholder-generator) |
+| Gerador de Whois | [Acessar](https://kitdevs.com/whois-generator) |
+| Conversor CSS para SASS | [Acessar](https://kitdevs.com/css-to-sass) |
+| Conversor RGB para HEX | [Acessar](https://kitdevs.com/rgb-to-hex) |
+| Conversor HEX para RGB | [Acessar](https://kitdevs.com/hex-to-rgb) |
 | Localizador de IP | [Acessar](https://kitdevs.com/ip-locator) |
-| Gerador de MAC Address | [Acessar](https://kitdevs.com/mac-generator) |
+| Gerador de Endereço MAC| [Acessar](https://kitdevs.com/mac-generator) |
 | Gerador de Botão CSS | [Acessar](https://kitdevs.com/button-generator) |
-| MAC para IP | [Acessar](https://kitdevs.com/mac-to-ip-converter) |
-| PNG para WebP | [Acessar](https://kitdevs.com/png-to-webp-converter) |
+| Conversor MAC para IP | [Acessar](https://kitdevs.com/mac-to-ip-converter) |
+| Conversor PNG para WebP | [Acessar](https://kitdevs.com/png-to-webp-converter) |
 | Gerador de Mensagens Broadcast | [Acessar](https://kitdevs.com/broadcast-generator) |
 | Gerador de QR Code para Pix | [Acessar](https://kitdevs.com/pix-qr-generator) |
 | Gerador de QR Code para Wi-Fi | [Acessar](https://kitdevs.com/wifi-qr-generator) |
