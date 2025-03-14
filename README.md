@@ -63,7 +63,7 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 
 ---
 
-## 🧮 Calculadoras  
+## 🧮 Calculadoras
 
 | Ferramenta | Link |
 |------------|------|
@@ -110,7 +110,7 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 
 Sinta-se à vontade para sugerir melhorias ou novas funcionalidades para o **Kit Devs**.  
 
-📧 Entre em contacto: [kitdevs.com](https://kitdevs.com)  
+📧 Entre em contato: [kitdevs.com/contato](https://kitdevs.com/contact)  
 
 ---
 
