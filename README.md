@@ -41,7 +41,7 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 | Validador de E-mail | [Acessar](https://kitdevs.com/validador-email) |
 | Validador de Placa | [Acessar](https://kitdevs.com/validador-placa) |
 | Validador de PIS | [Acessar](https://kitdevs.com/validador-pis) |
-| Validador de IP | [Acessar](https://kitdevs.com/ip-validator) |
+| Validador de IP | [Acessar](https://kitdevs.com/validador-ip) |
 | Validador de CEP | [Acessar](https://kitdevs.com/validador-cep) |
 
 ---
