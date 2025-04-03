@@ -33,16 +33,16 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 
 | Ferramenta | Link |
 |------------|------|
-| Validador de CPF | [Acessar](https://kitdevs.com/cpf-validator) |
-| Validador de CNPJ | [Acessar](https://kitdevs.com/cnpj-validator) |
-| Validador de RG | [Acessar](https://kitdevs.com/rg-validator) |
-| Validador de CNH | [Acessar](https://kitdevs.com/cnh-validator) |
-| Validador de Renavam | [Acessar](https://kitdevs.com/renavam-validator) |
-| Validador de E-mail | [Acessar](https://kitdevs.com/email-validator) |
-| Validador de Placa | [Acessar](https://kitdevs.com/placa-validator) |
-| Validador de PIS | [Acessar](https://kitdevs.com/pis-validator) |
+| Validador de CPF | [Acessar](https://kitdevs.com/validador-cpf) |
+| Validador de CNPJ | [Acessar](https://kitdevs.com/validador-cnpj) |
+| Validador de RG | [Acessar](https://kitdevs.com/validador-rg) |
+| Validador de CNH | [Acessar](https://kitdevs.com/validador-cnh) |
+| Validador de Renavam | [Acessar](https://kitdevs.com/validador-renavam) |
+| Validador de E-mail | [Acessar](https://kitdevs.com/validador-email) |
+| Validador de Placa | [Acessar](https://kitdevs.com/validador-placa) |
+| Validador de PIS | [Acessar](https://kitdevs.com/validador-pis) |
 | Validador de IP | [Acessar](https://kitdevs.com/ip-validator) |
-| Validador de CEP | [Acessar](https://kitdevs.com/cep-validator) |
+| Validador de CEP | [Acessar](https://kitdevs.com/validador-cep) |
 
 ---
 
