@@ -67,16 +67,16 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 
 | Ferramenta | Link |
 |------------|------|
-| Calculadora de Juros Compostos | [Acessar](https://kitdevs.com/compound-interest-calculator) |
-| Calculadora de Juros Simples | [Acessar](https://kitdevs.com/simple-interest-calculator) |
-| Calculadora de Regra de Três | [Acessar](https://kitdevs.com/rule-of-three-calculator) |
-| Calculadora de INSS e IRRF | [Acessar](https://kitdevs.com/inss-irrf-calculator) |
-| Calculadora de Porcentagem | [Acessar](https://kitdevs.com/percentage-calculator) |
-| Calculadora de MDC | [Acessar](https://kitdevs.com/mdc-calculator) |
-| Calculadora de MMC | [Acessar](https://kitdevs.com/mmc-calculator) |
-| Calculadora de Equações do 2° Grau | [Acessar](https://kitdevs.com/equation-calculator) |
-| Calculadora de Tempo Vivido | [Acessar](https://kitdevs.com/time-lived-calculator) |
-| Calculadora de IMC | [Acessar](https://kitdevs.com/imc-calculator) |
+| Calculadora de Juros Compostos | [Acessar](https://kitdevs.com/calculadora-juros-compostos) |
+| Calculadora de Juros Simples | [Acessar](https://kitdevs.com/calculadora-juros-simples) |
+| Calculadora de Regra de Três | [Acessar](https://kitdevs.com/calculadora-regra-de-tres) |
+| Calculadora de INSS e IRRF | [Acessar](https://kitdevs.com/calculadora-inss-irrf) |
+| Calculadora de Porcentagem | [Acessar](https://kitdevs.com/calculadora-porcentagem) |
+| Calculadora de MDC | [Acessar](https://kitdevs.com/calculadora-mdc) |
+| Calculadora de MMC | [Acessar](https://kitdevs.com/calculadora-mmc) |
+| Calculadora de Equações do 2° Grau | [Acessar](https://kitdevs.com/calculadora-equacoes) |
+| Calculadora de Tempo Vivido | [Acessar](https://kitdevs.com/calculadora-tempo-vivido) |
+| Calculadora de IMC | [Acessar](https://kitdevs.com/calculadora-imc) |
 
 ---
 
