@@ -56,10 +56,10 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 | Conversor Texto para HTML | [Acessar](https://kitdevs.com/conversor-texto-html) |
 | Conversor QR Code para Texto | [Acessar](https://kitdevs.com/conversor-qr-code-texto) |
 | Conversor Texto para QR Code | [Acessar](https://kitdevs.com/conversor-texto-qr-code) |
-| Conversor QR Code para URL | [Acessar](https://kitdevs.com/qr-url-converter) |
-| Conversor URL para QR Code | [Acessar](https://kitdevs.com/url-qrcode-converter) |
-| Conversor IPv4 para IPv6 | [Acessar](https://kitdevs.com/ipv4-ipv6-converter) |
-| Conversor IPv6 para IPv4 | [Acessar](https://kitdevs.com/ipv6-ipv4-converter) |
+| Conversor QR Code para URL | [Acessar](https://kitdevs.com/conversor-qr-code-url) |
+| Conversor URL para QR Code | [Acessar](https://kitdevs.com/conversor-url-qr-code) |
+| Conversor IPv4 para IPv6 | [Acessar](https://kitdevs.com/conversor-ipv4-ipv6) |
+| Conversor IPv6 para IPv4 | [Acessar](https://kitdevs.com/conversor-ipv6-ipv4) |
 
 ---
 
