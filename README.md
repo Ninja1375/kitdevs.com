@@ -95,15 +95,15 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 | Conversor RGB para HEX | [Acessar](https://kitdevs.com/conversor-rgb-hex) |
 | Conversor HEX para RGB | [Acessar](https://kitdevs.com/conversor-hex-rgb) |
 | Localizador de IP | [Acessar](https://kitdevs.com/localizador-de-ip) |
-| Gerador de Endereço MAC| [Acessar](https://kitdevs.com/mac-generator) |
-| Gerador de Botão HTML/CSS | [Acessar](https://kitdevs.com/button-generator) |
-| Conversor MAC para IP | [Acessar](https://kitdevs.com/mac-to-ip-converter) |
-| Conversor PNG para WebP | [Acessar](https://kitdevs.com/png-to-webp-converter) |
-| Gerador de Endereço Broadcast | [Acessar](https://kitdevs.com/broadcast-generator) |
-| Gerador de QR Code para Pix | [Acessar](https://kitdevs.com/pix-qr-generator) |
-| Gerador de QR Code para Wi-Fi | [Acessar](https://kitdevs.com/wifi-qr-generator) |
-| Gerador de .htaccess | [Acessar](https://kitdevs.com/htaccess-generator) |
-| Gerador de Headers HTTP | [Acessar](https://kitdevs.com/http-headers-generator) |
+| Gerador de Endereço MAC| [Acessar](https://kitdevs.com/gerador-mac) |
+| Gerador de Botão HTML/CSS | [Acessar](https://kitdevs.com/gerador-botoes) |
+| Conversor MAC para IP | [Acessar](https://kitdevs.com/conversor-mac-ip) |
+| Conversor PNG para WebP | [Acessar](https://kitdevs.com/conversor-imagens-para-webp) |
+| Gerador de Endereço Broadcast | [Acessar](https://kitdevs.com/gerador-broadcast) |
+| Gerador de QR Code para Pix | [Acessar](https://kitdevs.com/gerador-qr-code-pix) |
+| Gerador de QR Code para Wi-Fi | [Acessar](https://kitdevs.com/gerador-qr-code-wifi) |
+| Gerador de .htaccess | [Acessar](https://kitdevs.com/gerador-htaccess) |
+| Gerador de Headers HTTP | [Acessar](https://kitdevs.com/gerador-headers-http) |
 
 ---
 
@@ -111,7 +111,7 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 
 Sinta-se à vontade para sugerir melhorias ou novas funcionalidades para o **Kit Devs**.  
 
-📧 Entre em contato: [kitdevs.com/contato](https://kitdevs.com/contact)  
+📧 Entre em contato: [kitdevs.com/contato](https://kitdevs.com/contato)  
 
 ---
 
