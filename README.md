@@ -16,16 +16,16 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 
 | Ferramenta | Link |
 |------------|------|
-| Gerador de Senhas | [Acessar](https://kitdevs.com/password-generator) |
-| Gerador de CPF | [Acessar](https://kitdevs.com/cpf-generator) |
-| Gerador de CNPJ | [Acessar](https://kitdevs.com/cnpj-generator) |
-| Gerador de RG | [Acessar](https://kitdevs.com/rg-generator) |
-| Gerador de CNH | [Acessar](https://kitdevs.com/cnh-generator) |
-| Gerador de CEP | [Acessar](https://kitdevs.com/cep-generator) |
-| Gerador de Favicon | [Acessar](https://kitdevs.com/favicon-generator) |
-| Gerador de Cores | [Acessar](https://kitdevs.com/color-generator) |
-| Gerador de Renavam | [Acessar](https://kitdevs.com/renavam-generator) |
-| Gerador de Lorem Ipsum | [Acessar](https://kitdevs.com/lorem-ipsum-generator) |
+| Gerador de Senhas | [Acessar](https://kitdevs.com/gerador-senhas) |
+| Gerador de CPF | [Acessar](https://kitdevs.com/gerador-cpf) |
+| Gerador de CNPJ | [Acessar](https://kitdevs.com/gerador-cnpj) |
+| Gerador de RG | [Acessar](https://kitdevs.com/gerador-rg) |
+| Gerador de CNH | [Acessar](https://kitdevs.com/gerador-cnh) |
+| Gerador de CEP | [Acessar](https://kitdevs.com/gerador-cep) |
+| Gerador de Favicon | [Acessar](https://kitdevs.com/gerador-favicon) |
+| Gerador de Cores | [Acessar](https://kitdevs.com/gerador-cores) |
+| Gerador de Renavam | [Acessar](https://kitdevs.com/gerador-renavam) |
+| Gerador de Lorem Ipsum | [Acessar](https://kitdevs.com/gerador-lorem-ipsum) |
 
 ---
 
