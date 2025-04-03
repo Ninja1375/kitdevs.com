@@ -84,17 +84,17 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 
 | Ferramenta | Link |
 |------------|------|
-| Gerador de Open Graph (OG) | [Acessar](https://kitdevs.com/og-generator) |
-| Gerador de Sitemap.xml | [Acessar](https://kitdevs.com/sitemap-generator) |
-| Gerador de Robots.txt | [Acessar](https://kitdevs.com/robots-generator) |
-| Conversor HTML para Markdown | [Acessar](https://kitdevs.com/html-to-markdown) |
-| Conversor Markdown para HTML | [Acessar](https://kitdevs.com/markdown-to-html) |
-| Gerador de Placeholder/Imagem | [Acessar](https://kitdevs.com/placeholder-generator) |
-| Gerador de Whois | [Acessar](https://kitdevs.com/whois-generator) |
-| Conversor CSS para SASS | [Acessar](https://kitdevs.com/css-to-sass) |
-| Conversor RGB para HEX | [Acessar](https://kitdevs.com/rgb-to-hex) |
-| Conversor HEX para RGB | [Acessar](https://kitdevs.com/hex-to-rgb) |
-| Localizador de IP | [Acessar](https://kitdevs.com/ip-locator) |
+| Gerador de Open Graph (OG) | [Acessar](https://kitdevs.com/gerador-open-graph) |
+| Gerador de Sitemap.xml | [Acessar](https://kitdevs.com/gerador-sitemap) |
+| Gerador de Robots.txt | [Acessar](https://kitdevs.com/gerador-robots) |
+| Conversor HTML para Markdown | [Acessar](https://kitdevs.com/conversor-html-markdown) |
+| Conversor Markdown para HTML | [Acessar](https://kitdevs.com/conversor-markdown-html) |
+| Gerador de Placeholder/Imagem | [Acessar](https://kitdevs.com/gerador-placeholder-imagem) |
+| Gerador de Whois | [Acessar](https://kitdevs.com/gerador-whois) |
+| Conversor CSS para SASS | [Acessar](https://kitdevs.com/conversor-css-sass) |
+| Conversor RGB para HEX | [Acessar](https://kitdevs.com/conversor-rgb-hex) |
+| Conversor HEX para RGB | [Acessar](https://kitdevs.com/conversor-hex-rgb) |
+| Localizador de IP | [Acessar](https://kitdevs.com/localizador-de-ip) |
 | Gerador de Endereço MAC| [Acessar](https://kitdevs.com/mac-generator) |
 | Gerador de Botão HTML/CSS | [Acessar](https://kitdevs.com/button-generator) |
 | Conversor MAC para IP | [Acessar](https://kitdevs.com/mac-to-ip-converter) |
