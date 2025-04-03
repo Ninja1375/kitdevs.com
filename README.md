@@ -50,12 +50,12 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 
 | Ferramenta | Link |
 |------------|------|
-| Conversor JSON para XML | [Acessar](https://kitdevs.com/json-xml-converter) |
-| Conversor XML para JSON | [Acessar](https://kitdevs.com/xml-json-converter) |
-| Conversor HTML para Texto | [Acessar](https://kitdevs.com/html-text-converter) |
-| Conversor Texto para HTML | [Acessar](https://kitdevs.com/text-html-converter) |
-| Conversor QR Code para Texto | [Acessar](https://kitdevs.com/qr-code-text-converter) |
-| Conversor Texto para QR Code | [Acessar](https://kitdevs.com/text-qr-code-converter) |
+| Conversor JSON para XML | [Acessar](https://kitdevs.com/conversor-json-xml) |
+| Conversor XML para JSON | [Acessar](https://kitdevs.com/conversor-xml-json) |
+| Conversor HTML para Texto | [Acessar](https://kitdevs.com/conversor-html-texto) |
+| Conversor Texto para HTML | [Acessar](https://kitdevs.com/conversor-texto-html) |
+| Conversor QR Code para Texto | [Acessar](https://kitdevs.com/conversor-qr-code-texto) |
+| Conversor Texto para QR Code | [Acessar](https://kitdevs.com/conversor-texto-qr-code) |
 | Conversor QR Code para URL | [Acessar](https://kitdevs.com/qr-url-converter) |
 | Conversor URL para QR Code | [Acessar](https://kitdevs.com/url-qrcode-converter) |
 | Conversor IPv4 para IPv6 | [Acessar](https://kitdevs.com/ipv4-ipv6-converter) |
