@@ -54,8 +54,8 @@ Bem-vindo ao repositório oficial do **Kit Devs**! Aqui você encontra uma cole�
 | Validador de CNH | [Acessar](https://kitdevs.com/validador-cnh) |
 | Validador de Renavam | [Acessar](https://kitdevs.com/validador-renavam) |
 | Validador de E-mail | [Acessar](https://kitdevs.com/validador-email) |
-| Validador de Placa | [Acessar](https://kitdevs.com/validador-placa) |
-| Validador de PIS | [Acessar](https://kitdevs.com/validador-pis) |
+| Validador de Placa Veicular | [Acessar](https://kitdevs.com/validador-placa) |
+| Validador de PIS/PASEP | [Acessar](https://kitdevs.com/validador-pis) |
 | Validador de IP | [Acessar](https://kitdevs.com/validador-ip) |
 | Validador de CEP | [Acessar](https://kitdevs.com/validador-cep) |
 
